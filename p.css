@@ -1,0 +1,56 @@
+body{
+     margin: auto;
+     padding: 30px;
+     width: 80vw;
+     height: 100vh;
+     background: rgb(243, 243, 243);
+    
+}
+.contact{
+     display: inline-block;
+     width: 80vw;
+     margin:auto;
+    
+}
+.contact h4{
+     margin-left:30px  ;
+     display: inline-block;
+     width: auto;
+     margin-top: 3rem;
+     color: royalblue;
+     font-weight: bolder;
+}
+#style{
+     color: royalblue;
+     font-weight: bolder;
+}
+.space{
+     display: inline-block;
+     width: 30vw;
+
+     float: right;
+     list-style: none;
+     margin-right: 100px;
+     margin-top:auto ;
+     font-size: 17px;
+}
+.space li{
+     margin: 3px;
+     padding: 4px;
+}
+.space i{
+     color: royalblue;
+     float:;
+}
+.contact hr{
+     background-color: royalblue;
+     float: ;
+     width: 70vw;
+     display: flex;
+     justify-content: start;
+     margin-bottom: px;
+}
+h5{
+     font-weight: bolder;
+     font-size: 19px;
+}
